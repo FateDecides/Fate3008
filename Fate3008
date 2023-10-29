@@ -1,1 +1,2 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/FateDecides/Fate3008/main/Fate3008", true))()
+loadstring(game:HttpGet(('https:/raw.githubusercontent.com/h17s3/TIGERADMIN/main/TIGERADMINSCRIPTFREE'),true))()
