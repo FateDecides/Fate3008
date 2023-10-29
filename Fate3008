@@ -1,1 +1,1 @@
-loadstring(game:HttpGetAsync"raw.githubusercontent.com/FateDecides/ssr1/main/ssr1")()
+loadstring(game:HttpGetAsync"https://raw.githubusercontent.com/FateDecides/Fate3008/main/Fate3008")()
